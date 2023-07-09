@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJYMvhdR0EiT57+FJQ3P80GPJ+FAiUvCaNwBjvbfebI8zSt9EaEKlQdDBg+pfjR33K/Jbf4vG1lWwKrVvqiPvQ==",
+  "success": true,
+  "projectFilePath": "E:\\Kuliah\\Pemrograman\\pemroweek12\\pemrogramanweek12\\pemrogramanweek12\\pemrogramanweek12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yudha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\yudha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\yudha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\yudha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
